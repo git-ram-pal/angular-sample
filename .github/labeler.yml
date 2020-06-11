@@ -1,5 +1,5 @@
-folder:
+env:
 - ang-test/src/environments/*
 
-zzz:
+test:
   - ang-test/src/app/*.spec.ts
