@@ -1,0 +1,11 @@
+env:
+- ang-test/src/environments/*
+
+test:
+  - ang-test/src/app/*.spec.ts
+
+UI:
+  - ang-test/**/*
+
+API:
+  - app2/**/*
