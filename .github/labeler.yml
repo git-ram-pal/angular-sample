@@ -5,4 +5,4 @@ folder:
 - ang-test/**/*
 
 zzz:
-  - src/**/*.spec.js
+  - ang-test/src/environments/**/*
