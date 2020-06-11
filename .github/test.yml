@@ -1,2 +1,5 @@
 UI:
 - "**"
+
+hotfix:
+- ang-test/**/*
