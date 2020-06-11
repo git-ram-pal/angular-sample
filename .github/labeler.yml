@@ -4,5 +4,5 @@ UI:
 hotfix:
 - ang-test/**/*
 
-test:
+zzz:
   - src/**/*.spec.js
