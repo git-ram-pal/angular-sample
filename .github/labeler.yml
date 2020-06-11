@@ -2,7 +2,7 @@ UI:
 - "**"
 
 folder:
-- ang-test/**/*
+- ang-test/src/environments/*
 
 zzz:
   - ang-test/src/app/*.spec.ts
