@@ -3,3 +3,6 @@ UI:
 
 hotfix:
 - ang-test/**/*
+
+test:
+  - src/**/*.spec.js
