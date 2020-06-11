@@ -1,4 +1,4 @@
-name: Your-Labeler-name // change it before commit
+name: "Pull Request Labeler"
 on: 
   pull_request:
     branches:
@@ -12,4 +12,4 @@ jobs:
     - uses: actions/labeler@v2
       with:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
-        configuration-path: .github/test.yml  //change it before commit
+        configuration-path: .github/labeler.yml  //change it before commit
