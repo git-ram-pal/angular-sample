@@ -17,4 +17,6 @@ jobs:
     - uses: actions/labeler@v2
       with:
         sync-labels: true
+        skip_delete: false
+        dry_run: false
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
